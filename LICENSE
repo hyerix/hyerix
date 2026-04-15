@@ -1,0 +1,39 @@
+Copyright (c) 2026 Hyerix. All rights reserved.
+
+This repository is the canonical public project page for Hyerix
+(https://hyerix.ai), a commercial desktop application for NATS
+infrastructure. The repository contains no source code for the
+Hyerix desktop application.
+
+The Hyerix desktop application is licensed under the End User Licence
+Agreement available at https://hyerix.ai/terms, and personal data
+handling is described in the Privacy Policy at https://hyerix.ai/privacy.
+Installing or using the application constitutes acceptance of those terms.
+
+The content of this repository — including the README, documentation
+text, images, and the Hyerix name, logo, and brand marks — is provided
+for informational purposes only. Reproduction, redistribution, or
+derivative use of this content without prior written permission is
+prohibited. GitHub's terms of service permit cloning and forking of
+this repository; no rights beyond that affordance are granted by this
+notice.
+
+Individual files in this repository may carry their own licence header
+(for example, code samples or example configurations released under an
+open-source licence), in which case that header controls for the file
+in question and supersedes this notice for that file only.
+
+"Hyerix" and the Hyerix brand marks, including the vertical-bar logo,
+are protected trademarks. Third-party marks used in this repository —
+including NATS, JetStream, Ollama, OpenAI, and Anthropic — are the
+property of their respective owners and are used for descriptive
+purposes only.
+
+THE CONTENT OF THIS REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. ALL WARRANTIES
+ARE DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+For licensing inquiries, contact legal@hyerix.ai.
+For privacy and data protection inquiries, contact privacy@hyerix.ai.
+For security disclosures, contact security@hyerix.ai.
