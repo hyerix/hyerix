@@ -6,6 +6,9 @@
 
 **Hyerix is an AI-native desktop GUI for NATS infrastructure.**
 
+> [!IMPORTANT]
+> **Launching today on Product Hunt.** Vote, comment, or share feedback: [producthunt.com/products/hyerix](https://www.producthunt.com/products/hyerix)
+
 <p align="center">
   <a href="https://hyerix.ai">Website</a> &nbsp;·&nbsp;
   <a href="https://docs.hyerix.ai">Docs</a> &nbsp;·&nbsp;
